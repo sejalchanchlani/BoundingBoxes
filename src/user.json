@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "name":"sejal",
+        "list":[
+            {
+                 "placeId":1,
+                 "placeName":"Khandwa"
+            },
+            {
+                "placeId":2,
+                "placeName":"Pune"
+            }
+        ]
+       
+    },
+    {
+        "id":2,
+        "name":"kajal",
+        "list":[
+            {
+                 "placeId":1,
+                 "placeName":"Khandwa"
+            },
+            {
+                "placeId":2,
+                "placeName":"Vadodra"
+            }
+        ]
+       
+    },
+    {
+        "id":3,
+        "name":"pranjal",
+        "list":[
+            {
+                 "placeId":1,
+                 "placeName":"Khandwa"
+            }
+            
+        ]
+    }
+]

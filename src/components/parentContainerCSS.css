@@ -1,0 +1,87 @@
+/* import img from '../images/mountains1.jpg' */
+
+.img{
+    margin: 40px;
+    max-width: 600px;
+}
+.foulbuttondiv{
+    display: flex;
+    position: absolute;
+    top: 400px;
+    margin: 0 40px;
+}
+.ppp{
+    color: blue;
+}
+.head-to-head{
+   
+    background-color: rgb(244, 62, 62);
+}
+.head-to-shoulder{
+    background-color: rgb(110, 169, 15);
+}
+.on-ground{
+    background-color: rgb(149, 149, 255);
+}
+.shoulder-to-shoulder{
+    background-color: rgb(222, 240, 105);
+}
+.aaaa{
+    background-image: url('../images/images/nlfa.jpeg');
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    height: 800;
+    border:1px solid black;
+}
+.your-canvas-wrapper{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.mainContainer{
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+
+.buttonDiv{
+    display: flex;
+    position: absolute;
+    top: 500px;
+    margin: 0 40px;
+
+}
+.buttonDiv button, input{
+    padding: 4px 10px;
+    margin: 5px 10px;
+
+}
+
+.leftContainer{
+    float: left;
+    min-width: 800px
+}
+
+.rightContainer{
+    float: right;
+}
+canvas{
+    position: absolute;
+    margin: 20px 50px;
+    border: 2px solid black;
+    z-index: 1;
+   
+} 
+video {
+    left: 51px;
+    position: absolute;
+    top: 12px;
+    height: 383px;
+    width: 663px;
+} 
+
+table{
+    position: absolute;
+    top: 600px;
+}
